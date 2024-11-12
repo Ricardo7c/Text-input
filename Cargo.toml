@@ -1,9 +1,9 @@
 [package]
 name = "text-input"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 authors = ["Ricardo7c"]
-description = "Uma biblioteca simples para entrada de texto interativa no terminal"
+description = "A simple library for interactive text input in the terminal"
 repository = "https://github.com/Ricardo7c/text-input"
 documentation = "https://github.com/Ricardo7c/text-input/blob/main/README.md"
 license = "MIT"
