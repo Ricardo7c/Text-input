@@ -2,5 +2,13 @@
 name = "input"
 version = "0.1.0"
 edition = "2021"
+authors = ["Ricardo7c"]
+description = "Uma biblioteca simples para entrada de texto interativa no terminal"
+repository = "https://github.com/Ricardo7c/input"
+documentation = "https://github.com/Ricardo7c/input/blob/main/README.md"
+license = "MIT"
+
+keywords = ["input", "texto", "String", "Entrada", "text"]
+categories = ["functions"]
 
 [dependencies]
