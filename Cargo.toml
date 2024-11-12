@@ -9,6 +9,6 @@ documentation = "https://github.com/Ricardo7c/text-input/blob/main/README.md"
 license = "MIT"
 
 keywords = ["input", "texto", "String", "Entrada", "text"]
-categories = ["functions"]
+categories = ["command-line-interface"]
 
 [dependencies]
